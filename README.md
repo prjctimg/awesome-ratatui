@@ -264,6 +264,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [deezer-tui](https://github.com/Tatayoyoh/deezer-tui) - Deezer music TUI with included background player.
 - [fum](https://github.com/qxb3/fum) - A fully ricable tui-based music client.
 - [glicol-cli](https://github.com/glicol/glicol-cli) - Cross-platform music live coding in terminal.
+- [gtm](https://github.com/prjctimg/gtm.rs) - Terminal audio player with background playback support and YouTube/Spotify integration.
 - [lrxed](https://github.com/LunaPresent/lrxed) - A TUI application for synchronizing lyrics.
 - [m-lite](https://github.com/maxiloEmmmm/m-lite) - Listen to music from net163 in the terminal.
 - [mal-cli](https://github.com/L4z3x/mal-cli) - A TUI for myanimelist.
